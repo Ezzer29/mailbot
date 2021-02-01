@@ -8,6 +8,7 @@ git clone https://github.com/Ezzer29/mailbot.git
 cd mailbot
 # install dependencies
 npm i
+# Rename conf_template.json into conf.json and insert ur info
 # run start script (index.js)
 npm start
 ```
